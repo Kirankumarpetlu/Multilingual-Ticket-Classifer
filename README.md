@@ -54,16 +54,16 @@ High accuracy: Achieves an overall accuracy of ~85% on the test dataset.
 
 Easy-to-use web interface: Built with Streamlit to upload complaints and get real-time predictions.
 
+🔹Complaint	Predicted                                         Category
+I was charged extra fees on my credit card without notice.	Credit card
+My mortgage application has been delayed for months.	      Mortgage
+The loan interest rate is much higher than promised.	      Mortgage
+Unauthorized transactions happened on my bank account.	    Bank account or service
+
 
 🔹Example Predictions
 <img width="952" height="720" alt="Screenshot 2025-08-28 231008" src="https://github.com/user-attachments/assets/7b3355ea-5b91-41df-a0bc-5de2230f0101" />
 <img width="934" height="676" alt="Screenshot 2025-08-28 231049" src="https://github.com/user-attachments/assets/fdc9e5c6-b3c6-4789-9c1a-50ef2e3e6a53" />
 <img width="998" height="707" alt="Screenshot 2025-08-28 231129" src="https://github.com/user-attachments/assets/edcdd124-612b-4f86-81fe-0cbb9f091ad5" />
 
-Complaint	Predicted                                         Category
-I was charged extra fees on my credit card without notice.	Credit card
-My mortgage application has been delayed for months.	      Mortgage
-The loan interest rate is much higher than promised.	      Mortgage
-Unauthorized transactions happened on my bank account.	    Bank account or service
 
-Screenshots
